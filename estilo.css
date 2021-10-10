@@ -81,7 +81,13 @@ footer{
 
 .carousel-caption{
     margin-right: -8vw;
-    padding-left: 30vw;
+    padding-left:30vw;
     margin-bottom: 3vw;
 }
 
+
+.d-block.tamaño{
+    width: 100%;
+    min-width: 1920px;
+    
+}
